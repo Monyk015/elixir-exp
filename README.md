@@ -7,11 +7,11 @@ These include:
 2. Implementation of a paper game I played in school. I didn't find anything about it in the English internet but there's a Wikipedia page in Russian, German or Chinese. 
 
    [Wiki](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B2%D0%B8%D1%80%D1%83%D1%81%D0%BE%D0%B2)
-
+   
    And my version of it: 
-
+   
    [Backend](https://github.com/Monyk015/viruswars-backend)
-
+   
    [Frontend](https://github.com/Monyk015/viruswars-frontend)
 
    Frontend is written in Elm.
